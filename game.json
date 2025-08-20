@@ -1,0 +1,14 @@
+{
+  "730": {
+    "name": "Counter-Strike: Global Offensive",
+    "developer": "Valve",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+    "downloadUrl": "https://github.com/zezoalaa1229-cyber/id-game/raw/main/games/csgo.zip"
+  },
+  "570": {
+    "name": "Dota 2",
+    "developer": "Valve",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg",
+    "downloadUrl": "https://github.com/zezoalaa1229-cyber/id-game/raw/main/games/dota2.zip"
+  }
+}
